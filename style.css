@@ -9,3 +9,36 @@ body {
     padding: 5px;
     border: none;
 }
+
+.greenButton{
+    position: relative;
+    animation-name: tilt;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes tilt {
+    0%{
+        transform: rotateZ(0deg);
+        transform: translateY(300px)
+
+    }
+    25%{
+        transform: rotateZ(0deg);
+        transform: translateX(200px);
+    }
+    50%{
+        transform: rotateZ(20deg);
+        transform: translateY(400px);
+        transform: translateX(500px)
+    }
+    75%{
+        transform: rotateZ(-20deg);
+    }
+
+    100%{
+        transform: rotateZ(0deg);
+        transform: translateY(-300px);
+        transform: translateX(-400px);
+    }
+}
