@@ -1,6 +1,6 @@
-# SaveTheWorld
+# BuildingBloCS Dec 2025 - SaveTheWorld
 
-A little website with tips to save the world :). But that would be too simple, so we had a bit of fun with the button.
+This website is a very simple website that provides easy tips for anyone wanting to save the world, with the convenient click of a button. If more tips are needed, just return to the home page and click the button again for another tip. Good luck!
 
 ## Functionalities
 
