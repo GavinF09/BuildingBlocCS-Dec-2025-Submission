@@ -1,6 +1,6 @@
 # SaveTheWorld
 
-A little website with tips to save the world :). But that would be too simple, so we had a bit of fun with the button
+A little website with tips to save the world :). But that would be too simple, so we had a bit of fun with the button.
 
 ## Functionalities
 
@@ -20,4 +20,4 @@ With pip: `pip install flask`
 3. Browse to http://127.0.0.1:5000 to access the website.
 
 ## AI Usage
-No AI was used as part of this submission. 
+ChatGPT was used to generate the path for the button to move in CSS.
